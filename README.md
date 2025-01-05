@@ -32,5 +32,7 @@ _To be continued_
 6. You can now use the application
 
 ## Documentations:
+1. Main Page
+   <image src=images/main.png>
 
    
