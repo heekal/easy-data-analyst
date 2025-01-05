@@ -47,6 +47,7 @@ _To be continued_
    
 7. Results
    <image src=images/res1.png>
+   
    <image src=images/res2.png>
 
    
