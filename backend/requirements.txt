@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+pydantic
+nltk
+wordcloud
+plotly
+uvicorn
+fastapi
+matplotlib
+pillow
